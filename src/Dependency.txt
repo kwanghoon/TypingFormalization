@@ -1,0 +1,15 @@
+smallStep.thm:Import "decidability".
+decidability.thm:Import "inst_decidable".
+inst_decidable.thm:Import "completeness".
+completeness.thm:Import "dcl".
+dcl.thm:Import "depth".
+depth.thm:Import "soundness".
+soundness.thm:Import "declTyping".
+declTyping.thm:Import "trans".
+trans.thm:Import "alg".
+alg.thm:Import "order".
+order.thm:Import "decl".
+decl.thm:Import "typing".
+typing.thm:Import "nat".
+nat.thm:Import "olist".
+olist.thm
